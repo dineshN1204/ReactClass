@@ -1,0 +1,13 @@
+.container{
+    margin: auto;
+    height: 20px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50px;
+    overflow: hidden;
+}
+.progressbar{
+    background-color: blueviolet;
+    height: 100%;
+    transition: width 1s linear;
+}
